@@ -4,8 +4,6 @@ from ase.build import sort
 import subprocess
 import os
 
-pbe_path = '/home/tdp797/package/pseudopotentials/PBE/potpaw_PBE.54'
-
 pbe_path = 'path/to/pbe/pseudopotentials' # E.g '/home/pseudopotentials/PBE/potpaw_PBE.54'
 
 # Pseudopotentials that I used as suggested by VASP
